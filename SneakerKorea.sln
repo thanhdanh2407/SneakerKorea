@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SneakerKorea.Common", "SneakerKorea.Common\SneakerKorea.Common.csproj", "{92B24C28-CB1F-445E-9C6C-ACECF01A18FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SneakerKorea.Model", "SneakerKorea.Model\SneakerKorea.Model.csproj", "{A3ABF108-5076-4C16-81C9-BC19035E1989}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SneakerKorea.Service", "SneakerKorea.Service\SneakerKorea.Service.csproj", "{0FA46413-2FC6-4C4E-B101-FCE428877B74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SneakerKorea.Web", "SneakerKorea.Web\SneakerKorea.Web.csproj", "{81BA6AD1-9D10-46F3-BC82-2D9BDCFA999E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SneakerKorea.UnitTest", "SneakerKorea.UnitTest\SneakerKorea.UnitTest.csproj", "{C9B5ED5A-88C1-4EC7-B13C-EC9C0481DD56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SneakerKorea.Data", "SneakerKorea.Data\SneakerKorea.Data.csproj", "{0D576F4C-7AB2-4FE3-B91C-6E318B661B9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92B24C28-CB1F-445E-9C6C-ACECF01A18FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B24C28-CB1F-445E-9C6C-ACECF01A18FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B24C28-CB1F-445E-9C6C-ACECF01A18FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B24C28-CB1F-445E-9C6C-ACECF01A18FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3ABF108-5076-4C16-81C9-BC19035E1989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3ABF108-5076-4C16-81C9-BC19035E1989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3ABF108-5076-4C16-81C9-BC19035E1989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3ABF108-5076-4C16-81C9-BC19035E1989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FA46413-2FC6-4C4E-B101-FCE428877B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA46413-2FC6-4C4E-B101-FCE428877B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA46413-2FC6-4C4E-B101-FCE428877B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA46413-2FC6-4C4E-B101-FCE428877B74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81BA6AD1-9D10-46F3-BC82-2D9BDCFA999E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81BA6AD1-9D10-46F3-BC82-2D9BDCFA999E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81BA6AD1-9D10-46F3-BC82-2D9BDCFA999E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81BA6AD1-9D10-46F3-BC82-2D9BDCFA999E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B5ED5A-88C1-4EC7-B13C-EC9C0481DD56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B5ED5A-88C1-4EC7-B13C-EC9C0481DD56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B5ED5A-88C1-4EC7-B13C-EC9C0481DD56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B5ED5A-88C1-4EC7-B13C-EC9C0481DD56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D576F4C-7AB2-4FE3-B91C-6E318B661B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D576F4C-7AB2-4FE3-B91C-6E318B661B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D576F4C-7AB2-4FE3-B91C-6E318B661B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D576F4C-7AB2-4FE3-B91C-6E318B661B9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E07DDDFE-824D-43DD-AEAC-06584CD768FD}
+	EndGlobalSection
+EndGlobal
